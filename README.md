@@ -1,4 +1,4 @@
-![hello](https://github.com/bmwz110/bmwz110/blob/master/helloworld.png)
+🔭 Learning~
 
 <!--
 **bmwz110/bmwz110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
