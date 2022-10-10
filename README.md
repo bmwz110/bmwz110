@@ -9,10 +9,11 @@
 <a  target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white " alt="alt"/></a>  -->
 <hr/>
 
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+
 <div>
   <div align="center">
     <!-- <a href="#"><img alt="bmwz110's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bmwz110&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a> -->
-    <br/>
     <a href="#"><img alt="bmwz110's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmwz110&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
@@ -21,4 +22,3 @@
 
 <hr/>
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
