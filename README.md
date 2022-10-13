@@ -1,4 +1,4 @@
-🔭    Learning~
+🔭    Learning ~
 
 <!-- <a  target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white " alt="alt"/></a>
 <a  target="_blank"> <img src="https://img.shields.io/badge/TypeScript-00539F?style=for-the-badge&logo=typescript&logoColor=white " alt="alt"/></a> 
