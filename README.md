@@ -7,6 +7,7 @@
 <a  target="_blank"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white " alt="alt"/></a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white " alt="alt"/></a>  -->
+
 <hr/>
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
